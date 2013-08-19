@@ -22,11 +22,11 @@
         "growl": "~1.7.0"
     },
     "peerDependencies": {
-        "docpad": ">=6.50 <7"
+        "docpad": ">=6.49 <7"
     },
     "devDependencies": {
         "coffee-script": "~1.6.2",
-        "docpad": ">=6.50 <7"
+        "docpad": ">=6.49 <7"
     },
     "main": "./out/growl.plugin.js"
 }

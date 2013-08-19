@@ -10,5 +10,8 @@ module.exports = (BasePlugin) ->
 			enabled: true
 
 		# Listen to notify event
-		notify: (message, opts) ->
-			growl message, opts
+		notify: (options) ->
+			try
+				growl options.message, options.options
+			catch err
+				# ignore
