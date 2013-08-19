@@ -1,4 +1,11 @@
-docpad-plugin-growl
-===================
+# Growl plugin for DocPad
+Adds support for system notifications to [DocPad](https://docpad.org)
 
-Display system notifications on Docpad events
+## Install
+
+```
+docpad install growl
+```
+
+## License
+Licensed under the [MIT License](http://creativecommons.org/licenses/MIT/)
