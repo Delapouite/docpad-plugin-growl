@@ -1,6 +1,11 @@
 # Growl plugin for DocPad
 Adds support for system notifications to [DocPad](https://docpad.org)
 
+## Dependencies
+
+docpad-plugin-growl is dependent upon the free
+[GrowlNotify](http://growl.info/downloads#generaldownloads) command line utility.
+
 ## Install
 
 ```
